@@ -52,6 +52,9 @@ hotel-booking-snowflake-analytics/
 │   └── hotel_bookings_raw.csv
 │
 └── LICENSE
+```
+
+---
 
 ## ❄️ Snowflake Data Pipeline
 
@@ -148,7 +151,7 @@ The Snowflake pipeline includes checks for:
 
 ```bash
 git clone https://github.com/Harshalspage/hotel-booking-snowflake-analytics.git
-
+```
 
 ### 2. Load the dataset
 
