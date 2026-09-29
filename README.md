@@ -129,7 +129,9 @@ The dashboard includes analysis such as:
 - Booking status
 - Room type analysis
 
-A dashboard screenshot is available in the `Screeen Shot` folder.
+### Dashboard Preview
+
+![Hotel Booking Analytics Dashboard](Screeen%20Shot/Screenshot%202026-09-29%20130659.png)
 
 ---
 
